@@ -1,0 +1,2 @@
+# vaqtlar
+isystem project bot
